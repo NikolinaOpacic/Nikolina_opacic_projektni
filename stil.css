@@ -1,0 +1,113 @@
+/* CSS Document */
+
+.pozadina{
+	background-image: url("pozadine/pozadina.jpg")
+}
+
+.pozadina2{
+background-image: url("pozadine/pozadina2.jpg")	
+	
+}
+
+.pozadina3{
+background-image: url("pozadine/pozadina4_1.jpg")	
+	
+}
+
+h1 {
+	font-family: nikolinaopacic;
+	color: white;
+	text-align:  center;
+	font-weight: 350;
+    color: white;
+    padding: 20px 40px;
+}
+
+h2 {
+	font-family: Broadway;
+	color: white;
+	padding:20px;
+	font-weight: 300;
+}
+.h2_2{
+	font-family: Broadway;
+	color: white;
+	padding:20px;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+.h2_3{
+	font-family: Broadway;
+	color: rgb(0, 139, 139);
+	padding:20px;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+p {
+	color: rgb(0, 139, 139);
+	font-family: Berlin Sans FB;
+	font-size: 30px;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	font-weight: 300;
+	width: 900px;
+}
+
+.p2{
+	color: #C6DEF6;
+	font-family: Berlin Sans FB;
+	font-size: 30px;
+	background-color: rgba(255, 255, 255, 0.3);
+	padding: 20px;
+	font-weight: 300;
+	width: 900px;
+}
+
+.p3{
+	color: rgb(0, 139, 139);
+	font-family: Berlin Sans FB;
+	font-size: 30px;
+	background-color: rgba(173, 216, 230, 0.9);
+	padding: 20px;
+	font-weight: 300;
+	width: 900px;
+}
+
+    ul.nav-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex; 
+      gap: 10px;
+    }
+
+    ul.nav-list li a {
+      display: inline-block;
+      background-color: #00bcd4;
+      color: white;
+      padding: 10px 15px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      font-family: sans-serif;
+      text-align: center;
+    }
+
+    ul.nav-list li a:hover {
+      background-color: #0097a7;
+    }
+	
+	a:link{
+	color:rgb(0, 139, 139);
+	background-color:white;
+	padding:5px;
+	line-height:40px;
+	border:1px solid #008B8B;
+	}
+	
+.videostr{
+	padding:50px;
+
+}
